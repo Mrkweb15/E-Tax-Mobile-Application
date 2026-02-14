@@ -1,7 +1,6 @@
 # E-TAX
 
 **E-TAX** is a web-based real estate property management system developed as a capstone project.  
-It is designed specifically for the **City Assessor’s Office of Calapan** to streamline property assessment, classification, and tax-related processes through a centralized digital platform.
 
 ---
 
